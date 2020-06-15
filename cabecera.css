@@ -1,0 +1,16 @@
+body header {
+display:block;
+background:rgba(0, 0, 0, 0.6) url('') no-repeat fixed;
+width:88%;
+height:auto;
+margin:0 auto;
+padding-top:29px;
+padding-bottom:29px;
+font-size:48px;
+color:#FFF;
+text-align:center;
+border-radius:10px 10px 10px 10px;
+-webkit-border-radius:10px 10px 10px 10px; /* Chrome y Safari */
+-moz-border-radius:10px 10px 10px 10px; /* Firefox */
+-o-border-radius:10px 10px 10px 10px; /* Opera */
+-ms-border-radius:10px 10px 10px 10px; /* Internet Explorer */
