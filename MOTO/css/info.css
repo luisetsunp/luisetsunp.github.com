@@ -1,0 +1,38 @@
+#info {
+	background: #333;
+	color: #fff;
+	text-align: center;
+}
+
+#info .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+
+
+
+.info-plan{
+	margin: 20px;
+}
+
+.info-plan img{
+	width: 250px;
+	height: 250px;
+	
+}
+
+@media (min-width:480px){
+	.info-plan{
+		width: 40%;
+	}
+}
+
+@media (min-width:1024px) {
+	.info-plan{
+		width: auto;
+	}
+}
+		
